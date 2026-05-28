@@ -73,7 +73,7 @@ effective date.
 
 ## Contact
 
-Questions about this policy: **[your-contact-email]**
+Questions about this policy: **[liangyouze876@gmail.com]**
 
 ---
 
@@ -145,4 +145,4 @@ Questions about this policy: **[your-contact-email]**
 
 ## 联系方式
 
-关于本政策的疑问：**[你的联系邮箱]**
+关于本政策的疑问：**[liangyouze876@gmail.com]**
